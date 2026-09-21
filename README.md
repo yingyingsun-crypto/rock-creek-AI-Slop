@@ -1,7 +1,3 @@
 # Rock Creek Park — Prompt-only baseline
 
-This one-page website is the prompt-only baseline for the AI in Design Practice assignment. It uses general promotional copy and a conventional park landing-page structure without MCP data retrieval.
-
-## GitHub Pages
-
-Publish the repository from the `main` branch and `/ (root)` folder.
+This one-page concept website was produced from a prompt without MCP, NPS data, external research, or generated photorealistic imagery. The visual system uses typography and flat color only.
